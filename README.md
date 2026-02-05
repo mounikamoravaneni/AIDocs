@@ -1,27 +1,54 @@
-Welcome to AI Doctors Portal, where cutting-edge technology meets healthcare excellence. Our innovative platform harnesses the power of artificial intelligence to revolutionize the way medical professionals document patient encounters, streamlining workflows, enhancing accuracy, and improving patient care.
+# AI Doctors Portal
 
-With AI Doctors Portal, documentation becomes effortless. Our advanced AI algorithms transcribe doctor-patient conversations in real-time, converting spoken words into accurate and detailed clinical notes. Say goodbye to manual note-taking and tedious paperwork – our platform automates the process, saving valuable time and resources.
+Welcome to **AI Doctors Portal**, where cutting-edge technology meets healthcare excellence. Our innovative platform harnesses the power of **artificial intelligence** to revolutionize the way medical professionals document patient encounters, streamlining workflows, enhancing accuracy, and improving patient care.
 
-HIPAA compliance is at the core of our platform, ensuring the highest standards of patient data security and privacy. Doctors can trust that sensitive information remains protected at all times, with robust encryption and stringent security measures in place.
+---
 
-Customization is key with AI Doctors Portal. Medical professionals can tailor their documentation preferences, create templates, and personalize their workflow to suit their unique practice needs. From specialty-specific templates to customizable note formats, our platform adapts to diverse clinical settings with ease.
+## Key Features
 
-We understand the importance of accuracy in healthcare documentation. That's why our AI models are trained to recognize medical terminology and nuances, delivering precise and reliable transcriptions for every encounter. Doctors can rely on our platform to capture essential details and ensure comprehensive documentation for each patient visit.
+- **Real-time Transcription**: AI algorithms transcribe doctor-patient conversations in real-time, converting spoken words into accurate clinical notes.  
+- **HIPAA Compliance**: Ensures highest standards of patient data security and privacy with encryption and robust security measures.  
+- **Customizable Templates**: Doctors can personalize note formats and workflows to suit their practice needs.  
+- **Accuracy and Reliability**: AI models recognize medical terminology and nuances, ensuring precise documentation for every encounter.  
+- **Flexible Subscription Plans**: Affordable plans for solo practitioners and large medical groups, making advanced documentation technology accessible to all.  
 
-AI Doctors Portal offers flexible subscription plans designed to meet the needs of healthcare providers of all sizes. Whether you're a solo practitioner or part of a large medical group, our affordable pricing options make advanced documentation technology accessible to everyone.
+---
 
-Join the future of healthcare documentation with AI Doctors Portal. Experience seamless integration, unparalleled accuracy, and unmatched efficiency in your practice. Empower your team, elevate patient care, and unlock new possibilities with AI-powered documentation. Sign up today and discover the difference AI Doctors Portal can make in your practice.
+## Introduction
 
-Download the AI Doctors Portal app now and transform your healthcare documentation experience.
+The AI Doctors Portal app transforms healthcare documentation by making it effortless. Manual note-taking and tedious paperwork are replaced by automated AI-powered documentation, saving valuable time and resources.
 
-Introduction: The description begins with a welcoming tone, introducing the reader to the AI Doctors Portal. This sets a friendly and inviting atmosphere for potential users and investors.
+---
 
-Innovative Technology: It highlights the innovative nature of the platform by mentioning the integration of cutting-edge technology with healthcare excellence. This emphasizes the forward-thinking approach of the company.
+## Technologies Mentioned
 
-Key Features: The description outlines the core features of the platform, focusing on its ability to streamline workflows, enhance accuracy, and improve patient care. This sets clear expectations for what users can expect from the platform.
+- **Android SDK / Kotlin / Java**
+- **Deepgram / AssemblyAI / Speech-to-Text APIs**
+- **AWS S3** (for secure storage of audio files)
+- **Jetpack Libraries** (ViewModel, LiveData, Room)
+- **Material Design** for UI
+- **Coroutines** for asynchronous tasks
 
-Real-time Transcription: It emphasizes the real-time transcription capabilities of the platform, showcasing its ability to convert spoken words into accurate clinical notes instantly. This highlights the efficiency and convenience offered by the platform.
+---
 
-HIPAA Compliance: The description underscores the platform's commitment to HIPAA compliance, reassuring users about the security and privacy of their sensitive medical data. This builds trust and credibility in the platform.
+## How It Works
 
-Accuracy and Reliability: The description emphasizes the platform's focus on accuracy and reliability in healthcare documentation. It assures users that the platform's AI models are trained to recognize medical terminology accurately, ensuring comprehensive documentation for every patient encounter.
+1. Doctor records patient consultation via the app.
+2. Audio is uploaded securely to AWS S3.
+3. AI transcribes the conversation into clinical notes.
+4. Notes can be customized using templates and stored securely.
+5. Doctors can review and finalize documentation for patient records.
+
+---
+
+## Screenshots / Demo
+
+_Add screenshots or GIFs here if available:_
+
+![Screenshot1](screenshots/screen1.png)
+
+---
+
+## Disclaimer
+
+This README is for demonstration purposes only. All patient data is simulated, and no real client data is included.
