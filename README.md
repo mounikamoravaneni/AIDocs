@@ -43,9 +43,16 @@ The AI Doctors Portal app transforms healthcare documentation by making it effor
 
 ## Screenshots / Demo
 
-_Add screenshots or GIFs here if available:_
 
-![Screenshot1](screenshots/screen1.png)
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/0961ab4b-7b43-47fb-9ddb-0a8a807eb4a6" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/7ea67dc9-a6aa-499b-aaf2-0638d736516c" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/30a489cc-fcbf-446f-bd9c-9f358ba5bd62" />
+
+
+
+
+
+
 
 ---
 
